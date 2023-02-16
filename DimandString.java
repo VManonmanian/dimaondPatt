@@ -2,8 +2,7 @@
 import java.util.Scanner;
 import java.util.Arrays;
 public class DimandString {
-
-	public static void main(String[] args) {
+            public static void main(String[] args) {
 	    Scanner user=new Scanner(System.in);
 		String name ="string";
 		int length;
@@ -54,12 +53,5 @@ public class DimandString {
 			}
 			System.out.println();
 		}
-	   
-	
-		
-		
-		
-	  
-	}
-
+     }
 }
