@@ -1,4 +1,4 @@
-// first line is 1
+// first line is 10
 import java.util.Scanner;
 import java.util.Arrays;
 
