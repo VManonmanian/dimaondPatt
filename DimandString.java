@@ -1,6 +1,5 @@
 // first line is 1 is ok
 // first line is 1 is ok
-//this is second line
 import java.util.Scanner;
 import java.util.Arrays;
 
