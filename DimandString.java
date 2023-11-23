@@ -1,4 +1,4 @@
-// first line is 1 is ok
+// first line isHI
 // first line is 1 is ok
 import java.util.Scanner;
 import java.util.Arrays;
