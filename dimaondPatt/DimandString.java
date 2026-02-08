@@ -6,6 +6,10 @@ import java.util.Arrays;
 
 public class DimandString {
 	public static void main(String[] args) {
+		String Hello;
+
+
+
 		String value;
 		Scanner user = new Scanner(System.in);
 		String name = "string";
